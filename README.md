@@ -1,2 +1,2 @@
 # forge
-My personal projects: Light and practical development tools.
+Here, I will develop small, fast and open-source tools that anyone can use.
